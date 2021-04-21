@@ -39,19 +39,17 @@ ISLAM MOHAMMAD RAIHANUL             | CALCULATE QUANTITY OF ITEMS
 
 ## BRIEF DESCIPTION
 A point of sales system or POS. It is a system where the customers 
-in shopping site or physical store makes thier payment of thier
+in the shopping site or physical store make their payment of their 
 purchase for products or services and where sales taxes may become 
-payable. Everytime they purchase they will complete point of sales
-transaction.  
+payable. Every time they purchase they will complete the point of 
+the sales transaction.
 For our case study. we developed a mobile application using 
 react-native where the customer or user will input the 
 product/service/ item name, the price of the item, quantity, and 
-lastly if the product has discount. Customer will press add to cart 
-to enter more items and its details to the system. Lastly to calculate
-the total amount of the products to be paid, cutomer will press on Total 
-button.
-
-
+lastly if the product has a discount. Customers will press add to 
+cart to enter more items and their details to the system. Lastly, 
+to calculate the total amount of the products to be paid, customers 
+will press on Total button.
 
 
 
