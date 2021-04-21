@@ -57,7 +57,8 @@ button.
 
 ## SCREENSHOT OF THE OUTPUT
 
-![qemu-system-x86_64_Tp6S5TqtXQ](https://user-images.githubusercontent.com/74839789/115515649-f058d300-a2b7-11eb-9df9-a3d6dc30d5f3.jpg)
+![qemu-system-x86_64_5tjMoKqWjc](https://user-images.githubusercontent.com/74839789/115581180-58300d80-a2fa-11eb-9f13-11051bc14a4c.jpg)
+
 
 
 
