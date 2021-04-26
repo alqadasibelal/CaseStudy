@@ -48,7 +48,7 @@ react-native where the customer or user will input the
 product/service/ item name, the price of the item, quantity, and 
 lastly if the product has a discount. Customers will press add to 
 cart to enter more items and their details to the system. Lastly, 
-to calculate the total amount of the products to be paid, customers 
+It calculate the total amount of the products to be paid, customers 
 will press on Total button.
 
 
