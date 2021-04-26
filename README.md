@@ -38,7 +38,7 @@ ISLAM MOHAMMAD RAIHANUL             | CALCULATE QUANTITY OF ITEMS
 
 
 ## BRIEF DESCIPTION
-A point of sales system or POS. It is a system where the customers 
+A point of sales system or (POS). It is a system where the customers 
 in the shopping site or physical store make their payment of their 
 purchase for products or services and where sales taxes may become 
 payable. Every time they purchase they will complete the point of 
